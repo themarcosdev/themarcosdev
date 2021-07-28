@@ -10,6 +10,7 @@ Here are some ideas to get you started:  -->
 - Back-end : Java e Spring.
 - 💬 Pretendo estudar node.js, php e python.
 - ⚡ Amo games e gosto de desenvolver games por hobbie.
+- 😉 Dê uma olhadinha no meu replit antigo e atual, tenho alguns projetinhos lá. ✔
 
 <div>
   <a href="https://github.com/themarcosdev">
