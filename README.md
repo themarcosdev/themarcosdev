@@ -5,14 +5,9 @@
 
 Here are some ideas to get you started:  -->
 
-- 🔭 Estou atualmente procurando emprego na área de TI.
-- 🌱 Estou me aprofundando no desenvolvimento front-end (HTML, CSS, JS) e Back-end : Java e Spring 
-- e conheço bancos de dados relacionais também.
-- 💬 Pretendo estudar Node.js, PHP e Python e algum dia ser um desenvolvedor Full Stack. 🧠
-- ⚡ Amo games e gosto de desenvolver games por hobbie.
-- 😉 Dê uma olhadinha no meu replit antigo e atual, tenho alguns projetinhos lá e dá para rodar tudo via web. ✔
-- repl.it atual : https://replit.com/@themarcosdev 
-- meu antigo repl.it : https://replit.com/@XloganF
+- 💬 Me aprofundando no desenvolvimento web (PHP, JS, HTML, CSS, MYSQL, PL/SQL). 
+- 🧠 Me interesso por extensões de browser, PWA's, Magento e Linux .
+- ⚡ Sou um amante de games e gosto de desenvolver games por hobbie.
 
 <div>
   <a href="https://github.com/themarcosdev">
